@@ -1,1 +1,1 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=MD5AutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=cn.codesheep.auto.MD5AutoConfiguration
