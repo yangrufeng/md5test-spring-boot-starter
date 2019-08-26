@@ -1,3 +1,5 @@
+package cn.codesheep.auto;
+
 public class MD5Util {
     public static String getMD5( String source ) {
         return getMD5(source.getBytes());
